@@ -29,7 +29,7 @@
 - [x] Criar Projeto Em Golang
 - [x] Passar Arquivos Para o Celular
 - [x] Baixar o Icone   
-- [x] Ver umas Aulas de Ingles
+- [x] Ver aulas do Curso de Ingles
 
 
 ## Dia 2/1/2023
