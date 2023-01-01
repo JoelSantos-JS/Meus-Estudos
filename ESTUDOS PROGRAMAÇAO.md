@@ -2,7 +2,24 @@
 
 	#Aqui irei regitrar estudos, cursos e outras coisas que estou aprendendo.#
                                                   
-	
+
+
+# Linguagens e Frameworks
+	- [GOLANG] 
+	- [JAVASCRIPT]
+	- [GIT]
+	- [REACT]
+	- [NODE]
+	- [PHP]
+
+
+
+
+
+
+
+
+
 ## Dia 1/1/2023
 
 - [x] Estudar Golang 
