@@ -8,12 +8,12 @@
 
 
 # Linguagens e Frameworks
-	- [GOLANG] 
+	- [GOLANG] BOA LINGUAGEM POUCAS VAGAS NO BRASIL, PAUSADO POR ENQUANTO VOU ESTUDAR PHP.
 	- [JAVASCRIPT]
 	- [GIT]
 	- [REACT]
 	- [NODE]
-	- [PHP]
+	- [PHP] COMECEI A ESTUDAR.
 
 
 
@@ -34,7 +34,6 @@
 
 ## Dia 2/1/2023
 
-- [ ] Estudar Golang
-- [ ] Cria Projeto Em Golang
+- [ ] Estudar PHP
 - [ ] Upar Icone no meu Portifolio
 - [ ] Atualizar Estudos github
