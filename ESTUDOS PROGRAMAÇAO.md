@@ -1,4 +1,6 @@
 #                                   2023
+
+	#Aqui irei regitrar estudos, cursos e outras coisas que estou aprendendo.#
                                                   
 	
 ## Dia 1/1/2023
