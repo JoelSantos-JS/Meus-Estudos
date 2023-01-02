@@ -34,6 +34,8 @@
 
 ## Dia 2/1/2023
 
-- [ ] Estudar PHP
-- [ ] Upar Icone no meu Portifolio
-- [ ] Atualizar Estudos github
+- [x] Estudar PHP
+- [x] Upar Icone no meu Portifolio
+- [x] Atualizar Estudos github
+- [ ] Atualizar Videos Portifolio.
+- [x] Publicar vendas Facebook,
