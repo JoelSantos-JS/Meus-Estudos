@@ -39,3 +39,8 @@
 - [x] Atualizar Estudos github
 - [ ] Atualizar Videos Portifolio.
 - [x] Publicar vendas Facebook,
+
+
+## DIA 3/1/2013
+
+- [x] Nao conseguir estudar.
