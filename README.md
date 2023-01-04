@@ -8,13 +8,12 @@
 
 
 # Linguagens e Frameworks
-	- [GOLANG] BOA LINGUAGEM POUCAS VAGAS NO BRASIL, PAUSADO POR ENQUANTO VOU ESTUDAR PHP.
+	- [GOLANG] BOA LINGUAGEM POUCAS VAGAS NO BRASIL, PAUSADO POR ENQUANTO VOU ESTUDAR JAVASCRIPT.
 	- [JAVASCRIPT] JA TENHO UMA BOA BASE 
 	- [GIT] NADA A DIZER
 	- [REACT] MELHORANDO A CADA DIA 
-	- [NODE] EH ATE QUE É DAORA
-	- [PHP] COMECEI A ESTUDAR.
-
+	- [NODE] COMECEI A ESTUDAR
+	
 
 
 
@@ -34,13 +33,20 @@
 
 ## Dia 2/1/2023
 
-- [x] Estudar PHP
+
 - [x] Upar Icone no meu Portifolio
 - [x] Atualizar Estudos github
 - [ ] Atualizar Videos Portifolio.
 - [x] Publicar vendas Facebook,
 
 
-## DIA 3/1/2013
+## DIA 3/1/2023
 
 - [x] Nao conseguir estudar.
+
+
+
+## DIA 4/1/2023
+- [x] Atualizar portifolio
+- [x] Cria uma Aplicação front end
+- [x] Entrar no duolingo
