@@ -50,3 +50,14 @@
 - [x] Atualizar portifolio
 - [x] Cria uma Aplicação front end
 - [x] Entrar no duolingo
+
+
+## Dia 5/1/2023
+- [x]  Estudar Javascript
+- [x] Projeto react
+
+
+
+## Dia 6/1/2023
+
+- [x] Estudar nodejs 
