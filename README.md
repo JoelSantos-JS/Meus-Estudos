@@ -61,3 +61,36 @@
 ## Dia 6/1/2023
 
 - [x] Estudar nodejs 
+
+
+## Dia 7/1/2023
+
+- [x] Criar app Backend
+- [x] estudar duolingo
+- 
+## Dia 8/1/2023
+- [x] continuar app backend
+- [x] estudar duolingo
+
+
+## Dia 9/1/2023
+
+
+- [x] continuar app backend
+- [x] estudar duolingo
+- [x] cria app frontend
+
+## Dia 10/1/2023
+
+- [x] continuar app backend
+- [x] estudar duolingo
+
+
+## Dia 11/1/2023
+
+- [x] continuar app backend
+- [x] estudar duolingo
+
+
+
+
