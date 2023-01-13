@@ -93,4 +93,18 @@
 
 
 
+## Dia 12/1/2023
+
+- [x] continuar app backend
+- [x] estudar duolingo
+
+
+## Dia 13/1/2023
+
+- [ ] continuar app backend
+- [x] estudar duolingo
+
+
+
+
 
