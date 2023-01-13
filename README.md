@@ -110,7 +110,25 @@
 
 - [ ] continuar app backend
 - [x] estudar duolingo
+![[04_Gateway_Shuffle_720p_En_Jp_DualAudio_En_Sub_Cowboy_Bebop.3gp]]
 
+![[05_Ballad_of_Fallen_Angels_720p_En_Jp_DualAudio_En_Sub_Cowboy_Bebop.3gp]]
+
+![[06__Sympathy_for_the_Devil_720p_En_Jp_DualAudio_En_Sub_Cowboy_Bebop_v2.3gp]]
+
+![[07_Heavy_Metal_Queen_720p_En_Jp_DualAudio_En_Sub_Cowboy_Bebop.3gp]]
+
+![[08_Waltz_for_Venus_720p_En_Jp_DualAudio_En_Sub_Cowboy_Bebop.3gp]]
+
+![[09_Jamming_with_Edward_720p_En_Jp_DualAudio_En_Sub_Cowboy_Bebop.3gp]]
+
+![[10_Ganymede_Elegy_720p_En_Jp_DualAudio_En_Sub_Cowboy_Bebop.3gp]]
+
+![[11_Toys_in_the_Attic_720p_En_Jp_DualAudio_En_Sub_Cowboy_Bebop.3gp]]
+
+![[12_Jupiter_Jazz_Part_I_720p_En_Jp_DualAudio_En_Sub_Cowboy_Bebop.3gp]]
+
+![[01_Asteroid_Blues_720p_En_Jp_DualAudio_En_Sub_Cowboy_Bebop.3gp]]
 
 
 
