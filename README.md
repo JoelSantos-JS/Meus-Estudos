@@ -110,6 +110,16 @@
 
 - [ ] continuar app backend
 - [x] estudar duolingo
+
+
+
+## 15/1/2013
+
+- [x] continuar app backend
+- [x] estudar duolingo
+
+
+
 ![[04_Gateway_Shuffle_720p_En_Jp_DualAudio_En_Sub_Cowboy_Bebop.3gp]]
 
 ![[05_Ballad_of_Fallen_Angels_720p_En_Jp_DualAudio_En_Sub_Cowboy_Bebop.3gp]]
